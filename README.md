@@ -9,7 +9,7 @@ This is useful because the GUI admin console does not provide a native way to se
 ### Example usage
 
 1. Download `Get-CMCollsWhichIncludeColl.psm1` to `$HOME\Documents\WindowsPowerShell\Modules\Get-CMCollsWhichIncludeColl\Get-CMCollsWhichIncludeColl.psm1`.
-2. Run it. Recommended to save the results to a variable.
+2. Run it. It's recommended to save the results to a variable.
   - e.g. `$collections = Get-CMCollsWhichIncludeColl "UIUC-ENGR-IS EWS" -GetDeployments`
 3. Access returned data.
   - e.g. Get names of returned collections: `$collections.Name | Sort`
