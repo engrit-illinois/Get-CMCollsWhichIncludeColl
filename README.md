@@ -5,9 +5,7 @@ Including the `-GetDeployments` parameter will also retrieve all deployments to 
 Note: this will take ~3+ minutes to complete in our environment.  
 
 This is useful because the GUI admin console does not provide a native way to see this data.  
-
-# Update
-As of MECM version 2009 there is now a feature which lets you see this information natively. See:
+UPDATE: As of MECM version 2009 there is now a feature which lets you see this information natively. See:
 - https://feedbackportal.microsoft.com/feedback/idea/5bfbe5c8-cf1c-ec11-b6e7-0022481f8879
 - https://docs.microsoft.com/en-us/mem/configmgr/core/get-started/2020/technical-preview-2009#bkmk_coll
 
